@@ -1,1 +1,1 @@
-# ltp-html5-specialist
+# Eileen Harvey - HTML5 Specialist Course
